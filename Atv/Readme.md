@@ -1,5 +1,4 @@
 # Atividades de MySql
 ## Aluno: Wesley Lucas
-Neste repositório está algumas das atividades que realizei em Mysql no IFPE!
-
+1° Atividade 
 ### Informatica para Internet 2/3
